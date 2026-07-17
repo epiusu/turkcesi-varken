@@ -1,2 +1,1 @@
-# turkcesi-varken
-Türkçesi Varken
+# Türkçesi Varken
